@@ -1,1 +1,1 @@
-# Publin repo for scripts and dockercompose files.
+# Public repo for scripts and dockercompose files.
